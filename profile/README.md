@@ -23,7 +23,7 @@ The Salmon River is part of the Klamath-Siskiyou Bioregion and boasts some of th
 
 ## Support Our Work
 
-If you'd like to support our efforts in preserving the Salmon River watershed, please visit our [donation page](https://srrc.org/support-srrc) to learn how you can contribute.
+If you'd like to support our efforts in preserving the Salmon River watershed, please visit our [donation page](https://srrc.org/support) to learn how you can contribute.
 
 ## License
 
